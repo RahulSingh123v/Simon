@@ -1,0 +1,13 @@
+pyproject.toml
+src/Simon.egg-info/PKG-INFO
+src/Simon.egg-info/SOURCES.txt
+src/Simon.egg-info/dependency_links.txt
+src/Simon.egg-info/top_level.txt
+src/simon/__init__.py
+src/simon/main.py
+src/simon/agent/__init__.py
+src/simon/core/__init__.py
+src/simon/policy/__init__.py
+src/simon/storage/__init__.py
+src/simon/tools/__init__.py
+src/simon/ui/__init__.py

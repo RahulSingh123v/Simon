@@ -1,0 +1,4 @@
+{"timestamp": "2026-10-29T19:40:14.398072+00:00", "level": "INFO", "logger": "simon", "message": "This is an example log entry"}
+{"timestamp": "2026-10-29T19:44:03.817850+00:00", "level": "INFO", "logger": "simon", "message": "This is an example log entry"}
+{"timestamp": "2026-10-29T19:45:16.330299+00:00", "level": "INFO", "logger": "simon", "message": "SIMON initialization started"}
+{"timestamp": "2026-10-29T19:45:17.331148+00:00", "level": "INFO", "logger": "simon", "message": "SIMON initialization completed"}

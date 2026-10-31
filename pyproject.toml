@@ -1,0 +1,9 @@
+[build-system]
+requires = ["setuptools>=75"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "Simon"
+version = "0.1.0"
+description = "Simon is a local agent"
+requires-python = ">=3.12,<3.13"
